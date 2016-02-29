@@ -9,6 +9,9 @@ Test of compass GY-271 hardware
 [Datasheet 3-Axis Digital Compass IC
 HMC5883L](http://hackspark.fr/files/HMC5883L.pdf)
 
+[Cabling here !](http://www.robotpark.com/image/data/PRO/91457/GY_271_ELECTRONIC_COMPASS.pdf)
+
+
 ### Dimensions
 
 <img alt="Photo" src="https://hackspark.fr/media/catalog/product/cache/1/image/650x/6244465d93851bfb41b9f76e241a8d6d/g/y/gy-271.jpg?raw=true">
